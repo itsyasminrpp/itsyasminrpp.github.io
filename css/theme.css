@@ -1,0 +1,9 @@
+/* Paleta: altere as cores do site neste arquivo. */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --bg: #141414; --panel: #1b1b1b; --text: #f5f2ed; --muted: #aaa7a3;
+  --line: #343230; --white: #ffffff; --accent: #ef4444; --red-dark: #b91c28;
+  --red-hover: #cf2531; --red-deep: #75121c; --red-light: #ffd8d8;
+  --red-border: #ac454566; --red-shadow: #3d1616; --red-glow: #ef444418;
+}
